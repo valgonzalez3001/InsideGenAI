@@ -21,6 +21,7 @@ export default function SearchScreen({ onNext }) {
           ))}
         </div>
         <div className="explanation-box">
+          <img className="img-contentLLM" src="./img/contentLLM.gif"></img>
           <p>
             Durante el entrenamiento, el LLM vio enormes cantidades de texto:
             libros, webs, código, artículos…
